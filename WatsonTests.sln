@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatsonTests", "WatsonTests\WatsonTests.csproj", "{AD969F42-7B7C-4274-8746-A16226BD9375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatsonTests.UITests", "WatsonTests.UITests\WatsonTests.UITests.csproj", "{2FED1DC6-EF2C-4290-8C36-DEDEB4187051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FED1DC6-EF2C-4290-8C36-DEDEB4187051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FED1DC6-EF2C-4290-8C36-DEDEB4187051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FED1DC6-EF2C-4290-8C36-DEDEB4187051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FED1DC6-EF2C-4290-8C36-DEDEB4187051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD969F42-7B7C-4274-8746-A16226BD9375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD969F42-7B7C-4274-8746-A16226BD9375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD969F42-7B7C-4274-8746-A16226BD9375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD969F42-7B7C-4274-8746-A16226BD9375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
